@@ -1,0 +1,8 @@
+功能：
+搜索、排序、分页
+
+mytable({
+hySearch:’’,
+hySort:’’,
+hyPagination:’’
+})
